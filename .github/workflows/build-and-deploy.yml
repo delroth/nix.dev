@@ -40,4 +40,4 @@ jobs:
         overwrites-pull-request-comment: true
         enable-commit-comment: false
         enable-commit-status: true
-      if: github.repository_owner == 'NixOS'
+          #if: github.repository_owner == 'NixOS'
